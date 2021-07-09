@@ -1,1 +1,0 @@
-Rinn Squadron's removing jump omc shortcut
