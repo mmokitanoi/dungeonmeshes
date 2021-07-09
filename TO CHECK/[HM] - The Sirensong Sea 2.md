@@ -1,0 +1,1 @@
+--include some added mesh to make looting an additional chest possible
